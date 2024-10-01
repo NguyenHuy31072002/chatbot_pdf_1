@@ -6,10 +6,14 @@ Kho lưu trữ này chứa cách triển khai cơ bản của một ứng dụng
 Xin lưu ý rằng API Gemini cho phép 60 truy vấn mỗi phút.
 
 ## Local Setup
+1. Installation
+Mã này yêu cầu Python >= 3.10.
+
 ### Bước 1: Sao chép kho lưu trữ
 ```bash
 git clone https://github.com/NguyenHuy31072002/chatbot_pdf_1.git
 ```
+
 
 ### Bước 2: Thêm API Key
 Thay thế dòng mã sau trong .env bằng khóa API Gemini của bạn và sử dụng ứng dung lưu trữ ảnh trên cloudinary:
