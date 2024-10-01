@@ -5,6 +5,8 @@
 Kho lưu trữ này chứa cách triển khai cơ bản của một ứng dụng web bằng API chatbot Gemini AI. Ứng dụng web được xây dựng bằng khung Streamlit trong Python. Chatbot Gemini AI được cung cấp bởi API Gemini flash, cho phép người dùng tương tác với chatbot được đào tạo trên bộ dữ liệu khổng lồ gồm 1,5 nghìn tỷ mã thông báo. 
 Xin lưu ý rằng API Gemini cho phép 60 truy vấn mỗi phút.
 
+![Miêu tả source code](https://github.com/NguyenHuy31072002/chatbot_pdf_1/blob/main/img/workflow.png)
+
 ## Local Setup
 # 1. Installation
 Mã này yêu cầu Python >= 3.10.
