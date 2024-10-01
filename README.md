@@ -52,3 +52,8 @@ CLOUDINARY_API_SECRET=
 ```python
 streamlit run app.py
 ```
+
+### Bước 5: Trải nghiệm thử sản phẩm
+```python
+https://huggingface.co/spaces/KhacHuy/chatbot_with_pdf
+```
