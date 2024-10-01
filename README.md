@@ -18,10 +18,12 @@ git clone https://github.com/NguyenHuy31072002/chatbot_pdf_1.git
 ### Bước 2: Thêm API Key
 Thay thế dòng mã sau trong .env bằng khóa API Gemini của bạn và sử dụng ứng dung lưu trữ ảnh trên cloudinary:
 ```python
-GOOGLE_API_KEY=YOUR_API_KEY
-TOGETHER_API_KEY=YOUR_API_KEY
-CLOUDINARY_CLOUD_NAME=YOUR_CLOUD
-CLOUDINARY_API_KEY=YOUR_CLOUDINARY_API_KEY
-CLOUDINARY_API_SECRET=YOUR_CLOUDINARY_API_SECRET
+GOOGLE_API_KEY=
+TOGETHER_API_KEY=
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
 ```
-Bạn có thể lấy khóa API của mình từ [tại đây](https://makersuite.google.com/app/apikey). Khi bạn có chìa khóa, hãy chuyển sang bước tiếp theo.
+Bạn có thể lấy khóa API Gemini của mình từ [tại đây](https://makersuite.google.com/app/apikey). Khi bạn có chìa khóa, hãy chuyển sang bước tiếp theo.
+Bạn có thể lấy khóa API Together của mình từ [tại đây](https://api.together.ai/). Khi bạn có chìa khóa, hãy chuyển sang bước tiếp theo.
+Bạn có thể lấy khóa API CLOUDINARY của mình từ [tại đây](https://cloudinary.com/documentation/admin_api). Khi bạn có chìa khóa, hãy chuyển sang bước tiếp theo.
