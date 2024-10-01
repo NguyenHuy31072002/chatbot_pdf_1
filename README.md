@@ -27,6 +27,10 @@ venv/bin/activate
 ```bash
 git clone https://github.com/NguyenHuy31072002/chatbot_pdf_1.git
 ```
+Cài đặt thư viện cần sử dụng
+```bash
+pip install -r requirements.txt
+```
 
 
 ### Bước 3: Environment Variables
