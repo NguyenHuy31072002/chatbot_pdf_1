@@ -24,6 +24,6 @@ CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
 ```
-Bạn có thể lấy khóa API Gemini của mình từ [tại đây](https://makersuite.google.com/app/apikey). Khi bạn có chìa khóa, hãy chuyển sang bước tiếp theo.
-Bạn có thể lấy khóa API Together của mình từ [tại đây](https://api.together.ai/). Khi bạn có chìa khóa, hãy chuyển sang bước tiếp theo.
-Bạn có thể lấy khóa API CLOUDINARY của mình từ [tại đây](https://cloudinary.com/documentation/admin_api). Khi bạn có chìa khóa, hãy chuyển sang bước tiếp theo.
+- Bạn có thể lấy khóa API Gemini của mình từ [tại đây](https://makersuite.google.com/app/apikey). Khi bạn có chìa khóa, hãy chuyển sang bước tiếp theo.
+- Bạn có thể lấy khóa API Together của mình từ [tại đây](https://api.together.ai/). Khi bạn có chìa khóa, hãy chuyển sang bước tiếp theo.
+- Bạn có thể lấy khóa API CLOUDINARY của mình từ [tại đây](https://cloudinary.com/documentation/admin_api). Khi bạn có chìa khóa, hãy chuyển sang bước tiếp theo.
