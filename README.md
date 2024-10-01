@@ -20,4 +20,4 @@ CLOUDINARY_CLOUD_NAME=YOUR_CLOUD
 CLOUDINARY_API_KEY=YOUR_CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET=YOUR_CLOUDINARY_API_SECRET
 ```
-
+Bạn có thể lấy khóa API của mình từ [tại đây](https://makersuite.google.com/app/apikey). Khi bạn có chìa khóa, hãy chuyển sang bước tiếp theo.
