@@ -1,22 +1,2 @@
-chatbot_pdf/
-│
-├── pdf_img/
-│   ├── __pycache__/             # Thư mục tạm chứa các file biên dịch Python.
-│   ├── extract_text.py          # File chứa mã để trích xuất văn bản từ tệp PDF.
-│   ├── pdf_to_img.py            # File chứa mã để chuyển đổi PDF thành hình ảnh.
-│
-├── services/
-│   ├── __pycache__/             # Thư mục tạm chứa các file biên dịch Python.
-│   ├── chatbot.py                # File chứa logic chính của chatbot, xử lý các câu hỏi và phản hồi.
-│   ├── text_processing.py        # File chứa mã xử lý văn bản, có thể bao gồm làm sạch và chuẩn hóa dữ liệu văn bản.
-│   ├── vector_store.py           # File quản lý cơ sở dữ liệu vector, có thể dùng để lưu trữ và truy vấn các vector.
-│
-├── utils/
-│   ├── __pycache__/             # Thư mục tạm chứa các file biên dịch Python.
-│   ├── embeddings.py             # File chứa mã để tạo và quản lý các vector nhúng cho văn bản.
-│   ├── session.py                # File xử lý các phiên làm việc của người dùng, lưu trữ thông tin phiên.
-│
-├── .env                          # File cấu hình chứa các biến môi trường, như khóa API và thông tin bảo mật khác.
-├── 999.pdf                       # Tệp PDF mà dự án có thể sẽ xử lý hoặc tham chiếu đến.
-├── app.py                        # File chính để khởi động ứng dụng chatbot.
-└── requirements.txt              # File liệt kê các thư viện cần thiết cho dự án Python.
+chatbot_pdf/ │ ├── pdf_img/ │ ├── pycache/ # Temporary directory for Python bytecode files. │ ├── extract_text.py # Script for extracting text from PDF files. │ ├── pdf_to_img.py # Script for converting PDFs to images. │ ├── services/ │ ├── pycache/ # Temporary directory for Python bytecode files. │ ├── chatbot.py # Main logic for the chatbot, handling queries and responses. │ ├── text_processing.py # Script for processing text, including cleaning and normalizing data. │ ├── vector_store.py # Manages the vector database for storing and querying vectors. │ ├── utils/ │ ├── pycache/ # Temporary directory for Python bytecode files. │ ├── embeddings.py # Script for creating and managing embeddings for text. │ ├── session.py # Handles user sessions, storing session information. │ ├── .env # Configuration file containing environment variables, such as API keys. ├── 999.pdf # PDF file that the project may process or refer to. ├── app.py # Main file to launch the chatbot application. └── requirements.txt # Lists required libraries for the Python project.
+
