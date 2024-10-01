@@ -8,5 +8,16 @@ Xin lưu ý rằng API Gemini cho phép 60 truy vấn mỗi phút.
 ## Local Setup
 ### Bước 1: Sao chép kho lưu trữ
 ```bash
-git clone https://github.com/NguyenHuy31072002/web_app_chatbot.git
+git clone https://github.com/NguyenHuy31072002/chatbot_pdf_1.git
 ```
+
+### Bước 2: Thêm API Key
+Thay thế dòng mã sau trong .env bằng khóa API Gemini của bạn và sử dụng ứng dung lưu trữ ảnh trên cloudinary:
+```python
+GOOGLE_API_KEY=YOUR_API_KEY
+TOGETHER_API_KEY=YOUR_API_KEY
+CLOUDINARY_CLOUD_NAME=YOUR_CLOUD
+CLOUDINARY_API_KEY=YOUR_CLOUDINARY_API_KEY
+CLOUDINARY_API_SECRET=YOUR_CLOUDINARY_API_SECRET
+```
+
