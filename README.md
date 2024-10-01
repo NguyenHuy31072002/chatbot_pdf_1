@@ -55,6 +55,7 @@ streamlit run app.py
 
 ### Bước 5: Trải nghiệm thử sản phẩm
 ```python
-[https://huggingface.co/spaces/KhacHuy/chatbot_with_pdf](https://huggingface.co/spaces/KhacHuy/chatbot_with_pdf)
 https://huggingface.co/spaces/KhacHuy/chatbot_with_pdf
 ```
+
+Link trải nghiệm sản phẩm base [https://huggingface.co/spaces/KhacHuy/chatbot_with_pdf](https://huggingface.co/spaces/KhacHuy/chatbot_with_pdf)
